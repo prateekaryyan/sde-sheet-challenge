@@ -4,6 +4,7 @@ from sys import *
 from collections import *
 from math import *
 
+#throwing some compiler issue
 def printPascal(n:int):
     # Write your code here.
     # Return a list of lists.
